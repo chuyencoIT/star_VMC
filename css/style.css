@@ -1,0 +1,44 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: linear-gradient(to right top, #152641, #352753, #5f1f55, #840944, #9b0b24);
+}
+.navbar{
+	background-color:#3B2362;
+}
+.navbar a{
+	color: white;
+	size:20px;
+}
+.text{
+
+	font-size: 30px;
+	align-items: center;
+	display: flex;
+	justify-content: space-around;
+}
+.btn-success{
+	align-items: center;
+	display: flex;
+	justify-content: space-around;
+}
+.book img{
+	width: 356px;
+	height: 530px;
+}
+h3{
+	color: white;
+}
+.say{
+	color: white;
+}
+.-endbody{
+	background-color: #3B2362;
+    border-image: 50px;
+}
+.-endbody p{
+	color:white;
+}
+.-endbody img{
+  width:200px;
+  height:50px;
